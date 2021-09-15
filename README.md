@@ -1,2 +1,2 @@
 # one page project
- this my first one page project creat myself
+ this my first one page project created by myself
