@@ -1,3 +1,7 @@
 from django.shortcuts import render
+from django.http import HttpResponse, JsonResponse
 
+
+def Home_view(request):
+    return render(request, 'website/index.html')
 # Create your views here.
